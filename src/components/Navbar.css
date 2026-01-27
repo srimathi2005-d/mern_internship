@@ -1,0 +1,13 @@
+.navbar{
+    color:black;
+    background-color: blue;
+    display:flex;
+    justify-content: space-evenly;
+
+}.navbar li {
+    list-style: none;
+}
+
+.navbar li:hover{
+    color:aqua;
+}
